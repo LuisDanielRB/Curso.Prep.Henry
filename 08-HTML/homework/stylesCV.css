@@ -48,13 +48,3 @@ h1 {
 .divP p {
   margin: 12px;
 }
-
-.divHob {
-  margin: 1rem;
-  border: 3px white solid;
-  border-radius: 5px;
-}
-
-.divHob p {
-  margin: 12px;
-}
